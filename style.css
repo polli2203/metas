@@ -15,20 +15,20 @@ h1{
 .metas{
     color: rgb(197, 252, 249);
     font-weight: bold;
-    font-size: 30px;
+    font-size: 50px;
 }
 .importancias{
     color: rgb(227, 203, 255);
     font-weight: bold;
-    font-size: 30px;
+    font-size: 50px;
 }
 .prazos{
     color: rgb(192, 192, 255);
     font-weight: bold;
-    font-size: 30px;
+    font-size: 50px;
 }
 h3{
     color: aliceblue;
     font-weight: lighter;
-    font-size: 30px;
+    font-size: 40px;
 }
