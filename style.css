@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 body{
-    background: linear-gradient(rgb(235, 212, 255), rgb(191, 253, 248));
     font-family: Dancing Script;
 }
 h1{
-  background-image: linear-gradient(to bottom, rebeccapurple, steelblue, turquoise);
+  background-image: linear-gradient(to bottom, rgb(228, 202, 255), rgb(170, 212, 247), rgb(179, 248, 241));
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -12,14 +11,14 @@ h1{
   font-weight:bold;
 }
 .metas{
-    color: rgb(14, 73, 83);
+    color: rgb(197, 252, 249);
     font-weight: bold;
 }
 .importancias{
-    color: rgb(83, 15, 114);
+    color: rgb(227, 203, 255);
     font-weight: bold;
 }
 .prazos{
-    color: rgb(27, 27, 121);
+    color: rgb(192, 192, 255);
     font-weight: bold;
 }
