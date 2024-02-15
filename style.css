@@ -9,7 +9,7 @@ h1{
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   color: black;
-  font-weight:bolder;
+  font-weight:bold;
 }
 .metas{
     color: rgb(14, 73, 83);
