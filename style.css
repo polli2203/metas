@@ -4,7 +4,7 @@ body{
     font-family: Amatic SC ;
 }
 h1{
-  background-image: linear-gradient(to bottom, rgb(127, 86, 172), rgb(87, 142, 187), rgb(59, 210, 195));
+  background-image: linear-gradient(to bottom, rgb(100, 19, 187), rgb(87, 142, 187), rgb(59, 210, 195));
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
