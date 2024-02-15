@@ -23,3 +23,7 @@ h1{
     color: rgb(192, 192, 255);
     font-weight: bold;
 }
+h3{
+    color: aliceblue;
+    font-weight: lighter;
+}
