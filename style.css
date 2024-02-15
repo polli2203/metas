@@ -4,7 +4,7 @@ body{
     font-family: Amatic SC ;
 }
 h1{
-  background-image: linear-gradient(to bottom, rgb(198, 152, 247), rgb(170, 212, 247), rgb(179, 248, 241));
+  background-image: linear-gradient(to bottom, rgb(127, 86, 172), rgb(87, 142, 187), rgb(59, 210, 195));
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -13,17 +13,17 @@ h1{
   font-size: 60px;
 }
 .metas{
-    color: rgb(197, 252, 249);
+    color: rgb(0, 202, 192);
     font-weight: bold;
     font-size: 50px;
 }
 .importancias{
-    color: rgb(227, 203, 255);
+    color: rgb(132, 68, 204);
     font-weight: bold;
     font-size: 40px;
 }
 .prazos{
-    color: rgb(192, 192, 255);
+    color: rgb(84, 84, 181);
     font-weight: bold;
     font-size: 40px;
 }
