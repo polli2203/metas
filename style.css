@@ -4,10 +4,21 @@ body{
     font-family: Dancing Script;
 }
 h1{
-    color: blueviolet;
-    font-weight: bold
+  background-image: linear-gradient(to bottom, rebeccapurple, steelblue, turquoise);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: black;
 }
-h2{
-    color: blue;
+.metas{
+    color: rgb(14, 73, 83);
+    font-weight: bold;
+}
+.importancias{
+    color: rgb(83, 15, 114);
+    font-weight: bold;
+}
+.prazos{
+    color: rgb(27, 27, 121);
     font-weight: bold;
 }
