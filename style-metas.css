@@ -3,8 +3,8 @@
 --cor-de-fundo: #ca8686;
 --verde: rgb(59, 210, 195);
 --branco: #050505;
---botao-ativo:  rgb(87, 142, 187);
---botao-inativo: rgb(100, 19, 187);
+--botao-ativo:  rgb(100, 19, 187);
+--botao-inativo: rgb(59, 210, 195);
 --texto-fundo: #3a375e4d;
 }
 body{
