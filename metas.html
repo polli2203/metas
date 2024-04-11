@@ -29,7 +29,8 @@
                         </div>
                         <div class="contador-digito">
                             <p class="contador-digito-numero" id="horas0">7</p>
-                            <p class="contador-digito-texto">0 horas</p>
+                            <p class="contador-digito-texto">0 hora</p>
+                            </p>
                         </div>
                         <div class="contador-digito">
                             <p class="contador-digito-numero" id="min0">7</p>
@@ -64,7 +65,16 @@
                         </div>
                     </div>
                 </div>
-                <div class="aba-conteudo">
+                <div class="aba-conteudo">@media screen and (min-width: 768px) {
+                    .botoes {
+                        display: flex;
+                    }
+                
+                    .botao:first-child {
+                        border-radius: 40px 40px 0 0;
+                    }
+                }
+                
                     <h3 class="aba-conteudo-titulo-principal">Para minha futura profissão, pelo meu conhecimento e pelo
                         diploma</h3>
                     <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
